@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="upload_song">upload_song</string>
+    <string name="show_songs">Show Songs</string>
+    <string name="upload">UPLOAD</string>
+    <string name="song_title">Song Title</string>
+    <string name="_3_00">3:00</string>
+    <string name="musicPlayer">Music Player</string>
+</resources>
